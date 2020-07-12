@@ -2,8 +2,10 @@
 
 This repo contains the starter code for the Route Planning project.
 
-<img src="map.png" width="600" height="450" />
-
+  ## Video Demo:
+https://youtu.be/u6gAn3M9FFU
+                                                                       
+  [![Watch the video](map.png)](https://youtu.be/u6gAn3M9FFU)                                                                     
 ## Cloning
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
